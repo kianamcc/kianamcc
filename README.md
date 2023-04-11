@@ -1,4 +1,4 @@
-- ✨ Hi, I’m Kiana McCullough
+- ✨ Hi, I’m Kiana McCullough ✨
 - I like programming, particulary web development
 
 <!---
