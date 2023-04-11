@@ -1,4 +1,5 @@
-- 👋 Hi there, I’m Kiana McCullough
+👋 Hi there, I’m Kiana McCullough
+
 - 🌻 I enjoy working with React
 - 🌱 I'm currently working on redesigning some of my personal projects such as Subscraper
 - 🌟 I can be reached at: kianamccu@gmail.com
