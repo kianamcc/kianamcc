@@ -1,7 +1,6 @@
 👋 Hi there, I’m Kiana McCullough
 
 - 🌻 I enjoy working with the web
-- 🌱 I'm currently exploring backend development
 - 🌟 I can be reached at: kianamccu@gmail.com
 - 🐱 Fun fact: I live with 4 adopted cats
 
